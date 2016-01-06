@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+//  background-color: #b2b2b2;
+//  background-color: rgba(0, 0, 0, .2);
+//  background-image: url("download.jpg");
+//  background-repeat: no-repeat;
+}
+
+topbarr {
+  background: #466368;
+  background: -webkit-linear-gradient(#648880, #293f50);
+  background:    -moz-linear-gradient(#648880, #293f50);
+  background:         linear-gradient(#648880, #293f50);
+}
